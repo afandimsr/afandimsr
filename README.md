@@ -1,7 +1,8 @@
 ### Hi there 👋 Im Mohamad Afandi 
 ### My activity
-    🔭 I’m currently working on campus area project
-    🌱 I’m currently learning kotlin and java language
+    🔭 I’m currently working at one of indonesian goverment
+    🌱 I’m currently focus on backend developer(PHP,C#)
+    💬 Ask me about technology in my social media 
 ##### find me on:
 [Instagram](https://www.instagram.com/afandi_msr) |
 [Twitter](https://twitter.com/AfandiMsr) |
